@@ -1,9 +1,9 @@
 # shellcheck shell=bash
 # SPDX-License-Identifier: MIT
-# Copyright (C) 2026 Vicharak Computer Pvt. Ltd.
+# Copyright (C) 2026 Vicharak Computers Pvt. Ltd.
 
-# Makefile for rk3588_axon_cm_evb1
-# This file contains variables used for building rk3588_axon_cm_evb1 kernel
+# Makefile for rk3588_axon_cm_evb2
+# This file contains variables used for building rk3588_axon_cm_evb2 kernel
 # To disable build options, comment the line or set it to false
 
 # Device specific
